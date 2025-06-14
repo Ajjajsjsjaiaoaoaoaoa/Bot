@@ -7,7 +7,7 @@ from threading import Thread
 # ==== CONFIGURACIÓN ====
 api_id = 12345678  # ← Reemplaza con tu API ID
 api_hash = 'tu_api_hash'  # ← Reemplaza con tu API Hash
-session_name = 'mi_sesion'
+session_name = 'miarchivo.session'
 grupo_logs = 'logsdelbotspammm'
 ARCHIVO_GRUPOS = 'grupos.txt'
 inicio = datetime.datetime.now()
